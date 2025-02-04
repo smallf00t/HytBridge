@@ -1,41 +1,175 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.10">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1223" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3289" dy="927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Orgchart" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="80" width="710" height="290" as="geometry" />
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;V1&lt;/font&gt;&lt;/font&gt;" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
+          <mxGeometry x="-750" y="80" width="1810" height="960" as="geometry" />
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-12">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+        <mxCell id="KA_ZVeTa9s2SzILzdO9J-48" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="1450" y="305" width="210" height="210" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Patient&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-12">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
             <mxGeometry x="260" y="50" width="180" height="70" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-13" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-14" edge="1">
+        <mxCell id="KA_ZVeTa9s2SzILzdO9J-6" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;15&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="490" y="45" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KA_ZVeTa9s2SzILzdO9J-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.044;entryY=0.497;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="KA_ZVeTa9s2SzILzdO9J-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-14">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="40" y="180" width="180" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-15" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-16" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="KA_ZVeTa9s2SzILzdO9J-9" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;SMUR&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="640" y="45" width="80" height="80" as="geometry" />
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-16">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="260" y="180" width="180" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-17" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-18" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="KA_ZVeTa9s2SzILzdO9J-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="KA_ZVeTa9s2SzILzdO9J-6" target="KA_ZVeTa9s2SzILzdO9J-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="85" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-18">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="490" y="180" width="180" height="80" as="geometry" />
+        <mxCell id="KA_ZVeTa9s2SzILzdO9J-10" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;SAUV&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="1223.5" y="70" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KA_ZVeTa9s2SzILzdO9J-15" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;MAO&lt;/font&gt;&lt;/font&gt;" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.cell_phone;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="1527" y="405" width="25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KA_ZVeTa9s2SzILzdO9J-16" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;IDE SAUV&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.cell_phone;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="1570" y="380" width="25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KA_ZVeTa9s2SzILzdO9J-20" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;AUTOMATE ALERTE SAUV&lt;/font&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="800" y="220" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KA_ZVeTa9s2SzILzdO9J-21" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;GEOFENCING&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;SMUR T10&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="800" y="385" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KA_ZVeTa9s2SzILzdO9J-22" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Compte à rebours&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Syno RPU&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;IDE + ACCEUIL MED&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="800" y="580" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KA_ZVeTa9s2SzILzdO9J-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="KA_ZVeTa9s2SzILzdO9J-21" target="KA_ZVeTa9s2SzILzdO9J-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="980" y="330" as="sourcePoint" />
+            <mxPoint x="1030" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;RÉGULATEUR&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" id="KA_ZVeTa9s2SzILzdO9J-24">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="770" y="65" width="180" height="40" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="KA_ZVeTa9s2SzILzdO9J-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="KA_ZVeTa9s2SzILzdO9J-9" target="KA_ZVeTa9s2SzILzdO9J-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="870" y="220" as="sourcePoint" />
+            <mxPoint x="920" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA_ZVeTa9s2SzILzdO9J-26" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;DECLENCHEUR DESTINATION&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;SAUV&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="765" y="140" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KA_ZVeTa9s2SzILzdO9J-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="KA_ZVeTa9s2SzILzdO9J-24" target="KA_ZVeTa9s2SzILzdO9J-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="870" y="220" as="sourcePoint" />
+            <mxPoint x="920" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA_ZVeTa9s2SzILzdO9J-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.475;entryY=0.016;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="KA_ZVeTa9s2SzILzdO9J-26" target="KA_ZVeTa9s2SzILzdO9J-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="260" as="sourcePoint" />
+            <mxPoint x="480" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA_ZVeTa9s2SzILzdO9J-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="KA_ZVeTa9s2SzILzdO9J-20" target="KA_ZVeTa9s2SzILzdO9J-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="870" y="370" as="sourcePoint" />
+            <mxPoint x="920" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA_ZVeTa9s2SzILzdO9J-41" value="T&amp;gt;= 10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KA_ZVeTa9s2SzILzdO9J-30">
+          <mxGeometry x="-0.0385" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA_ZVeTa9s2SzILzdO9J-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="KA_ZVeTa9s2SzILzdO9J-21" target="KA_ZVeTa9s2SzILzdO9J-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="870" y="370" as="sourcePoint" />
+            <mxPoint x="920" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA_ZVeTa9s2SzILzdO9J-32" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;TAMAT&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="1030" y="445" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KA_ZVeTa9s2SzILzdO9J-33" value="Info Alerte SAUV, arrivée d&#39;un patient dans 10 minutes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="1250" y="445" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KA_ZVeTa9s2SzILzdO9J-34" value="ACK&lt;div&gt;DTMF&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="1495" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KA_ZVeTa9s2SzILzdO9J-35" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="KA_ZVeTa9s2SzILzdO9J-32" target="KA_ZVeTa9s2SzILzdO9J-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="910" y="230" as="sourcePoint" />
+            <mxPoint x="960" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA_ZVeTa9s2SzILzdO9J-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.03;exitY=0.563;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="KA_ZVeTa9s2SzILzdO9J-45" target="KA_ZVeTa9s2SzILzdO9J-48">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1313.5" y="485" as="sourcePoint" />
+            <mxPoint x="1363.5" y="435" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA_ZVeTa9s2SzILzdO9J-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="KA_ZVeTa9s2SzILzdO9J-33" target="KA_ZVeTa9s2SzILzdO9J-48">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1243.5" y="445" as="sourcePoint" />
+            <mxPoint x="1293.5" y="395" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA_ZVeTa9s2SzILzdO9J-40" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;GEOFENCING&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;SMUR &amp;lt;10&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="1010" y="220" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KA_ZVeTa9s2SzILzdO9J-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="KA_ZVeTa9s2SzILzdO9J-20" target="KA_ZVeTa9s2SzILzdO9J-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="875" y="290" as="sourcePoint" />
+            <mxPoint x="875" y="395" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA_ZVeTa9s2SzILzdO9J-43" value="T&amp;lt; 10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KA_ZVeTa9s2SzILzdO9J-42">
+          <mxGeometry x="-0.0385" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA_ZVeTa9s2SzILzdO9J-44" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;TAMAT&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="1030" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KA_ZVeTa9s2SzILzdO9J-45" value="Info Alerte SAUV, arrivée d&#39;un patient imminente inferieur à 10 minutes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="1250" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KA_ZVeTa9s2SzILzdO9J-46" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.57;exitY=0.976;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="KA_ZVeTa9s2SzILzdO9J-40" target="KA_ZVeTa9s2SzILzdO9J-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1073.5" y="280" as="sourcePoint" />
+            <mxPoint x="1203.5" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA_ZVeTa9s2SzILzdO9J-47" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.022;exitY=0.397;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.003;entryY=0.587;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="KA_ZVeTa9s2SzILzdO9J-44" target="KA_ZVeTa9s2SzILzdO9J-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1150" y="390" as="sourcePoint" />
+            <mxPoint x="1200" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA_ZVeTa9s2SzILzdO9J-49" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="KA_ZVeTa9s2SzILzdO9J-48" target="KA_ZVeTa9s2SzILzdO9J-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1560" y="630" as="sourcePoint" />
+            <mxPoint x="1610" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA_ZVeTa9s2SzILzdO9J-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.01;entryY=0.595;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="KA_ZVeTa9s2SzILzdO9J-21" target="KA_ZVeTa9s2SzILzdO9J-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="940" y="425" as="sourcePoint" />
+            <mxPoint x="1070" y="535" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA_ZVeTa9s2SzILzdO9J-51" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.log_streaming;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="980" y="137.35000000000002" width="47.400000000000006" height="45.3" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
