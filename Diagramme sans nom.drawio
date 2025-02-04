@@ -30,10 +30,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KA_ZVeTa9s2SzILzdO9J-10" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;SAUV&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="1223.5" y="70" width="80" height="80" as="geometry" />
+          <mxGeometry x="1515" y="50" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KA_ZVeTa9s2SzILzdO9J-15" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;MAO&lt;/font&gt;&lt;/font&gt;" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.cell_phone;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="1527" y="405" width="25" height="60" as="geometry" />
+          <mxGeometry x="1500" y="350" width="25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KA_ZVeTa9s2SzILzdO9J-16" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;IDE SAUV&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.cell_phone;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="1570" y="380" width="25" height="60" as="geometry" />
@@ -169,6 +169,12 @@
         </mxCell>
         <mxCell id="KA_ZVeTa9s2SzILzdO9J-51" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.log_streaming;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="980" y="137.35000000000002" width="47.400000000000006" height="45.3" as="geometry" />
+        </mxCell>
+        <mxCell id="KA_ZVeTa9s2SzILzdO9J-53" value="NPPT" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="1027.4" y="560" width="342.6" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="KA_ZVeTa9s2SzILzdO9J-54" value="Alerte Son synoptique&lt;div&gt;Affinage en secondes synoptiques&lt;/div&gt;&lt;div&gt;Declenchement VSAV&lt;/div&gt;&lt;div&gt;Matrice multi Alerte Syno&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="KA_ZVeTa9s2SzILzdO9J-53">
+          <mxGeometry x="20" y="25" width="210" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
